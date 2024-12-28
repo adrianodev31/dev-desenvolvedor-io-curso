@@ -1,0 +1,14 @@
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+C:\dev-desenvolvedor-io\fundamentos-csharp\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
